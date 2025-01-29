@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  color: white;
+  font-size: 26px;
+}
+
+.calculator-btn {
+  height: 60px;
+  width: 60px;
+  border-radius: 60px;
+  border: none;
+  font-size: 26px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.grey-btn {
+  background-color: rgb(51, 51, 51);
+  color: white;
+}
+
+.orange-btn {
+  color: white;
+  background-color: orange;
+}
+.clear{
+  font-size: 20px;
+}
