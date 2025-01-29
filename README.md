@@ -32,3 +32,7 @@ A simple web-based calculator with a clean design and interactive buttons.
 ## License
 Project under **MIT** license.
 
+
+
+![image](https://github.com/user-attachments/assets/c8b96f61-fc4d-4736-9a6c-26be34620b52)
+
